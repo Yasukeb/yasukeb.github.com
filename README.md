@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="New folder/page.css">
+    <title>Atom History</title>
+</head>
+<body>
+    <h1>History of the Atom</h1>
+    <p>The Atom is the basic unit of matter.</p>
+    <p><img src="New folder/atoms-are-the-only-things-that-matter.jpg" alt="" width="300"></p>
+    <p>This is a Timeline of the Atom History.</p>
+    <img src="New folder/image-11.jpg" width="500" alt="image of the timeline of Atomic theory" title="Timeline of the atomic theory">
+    <p>We will start with <a class="Principal" title="First" href="New folder/Democritus.html">Democristus</a></p>
+    <ul>
+        <p>List of pages created in chronological order. For a better experiment, follow the original Path.</p>
+        <li><a href="New folder/Democritus.html">1-Democristus</a></li>
+        <li><a href="New folder/Dalton.html">2-Dalton Model</a></li>
+        <li><a href="New folder/Thomson.html">3-Thomson Model</a></li>
+        <li><a href="New folder/Rutherford.html">4-Rutherford Model</a></li>
+        <li><a href="New folder/Bohr.html">5-Bohr Model</a></li>
+        <li><a href="New folder/Wave.html">6-Wave Model Modern</a></li>
+    </ul>
+    <img src="New folder/ready-to-fight-ready-to-fight-success-kid-original-53790535.png" width="200" alt="">
+</body>
+</html>
