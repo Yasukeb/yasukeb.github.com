@@ -13,7 +13,7 @@
     <p><img src="New folder/atoms-are-the-only-things-that-matter.jpg" alt="" width="300"></p>
     <p>This is a Timeline of the Atom History.</p>
     <img src="New folder/image-11.jpg" width="500" alt="image of the timeline of Atomic theory" title="Timeline of the atomic theory">
-    <p>We will start with <a class="Principal" title="First" href="New folder/Democritus.html">Democristus</a></p>
+    <p>We will start with <a class="Principal" title="First" href="Democritus.html">Democristus</a></p>
     <ul>
         <p>List of pages created in chronological order. For a better experiment, follow the original Path.</p>
         <li><a href="New folder/Democritus.html">1-Democristus</a></li>
