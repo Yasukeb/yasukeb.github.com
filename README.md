@@ -23,6 +23,7 @@
         <li><a href="Bohr.html">5-Bohr Model</a></li>
         <li><a href="Wave.html">6-Wave Model Modern</a></li>
     </ul>
+      <p>Project Chemistry Lorentz Voltaire</p>
     <img src="ready-to-fight-ready-to-fight-success-kid-original-53790535.png" width="200" alt="">
 </body>
 </html>
