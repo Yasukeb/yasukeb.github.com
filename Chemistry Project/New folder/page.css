@@ -1,0 +1,22 @@
+a{
+    font-family:cursive;
+    color:blue;
+}
+body{
+    background-image: url(000-Best-Atom-Packages.png);
+}
+h1{
+    font-family: fantasy;
+    color: crimson;
+    text-align: center;
+    font-size: 3em;
+}
+h2{
+    font-family: monospace;
+}
+.Principal{
+    background-color:darkred;
+}
+.oll{
+    background-image: url(external-content.duckduckgo-1.jpg);
+}
